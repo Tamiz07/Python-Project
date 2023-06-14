@@ -6,4 +6,4 @@ Link : https://github.com/Tamiz07/Python-Project/blob/main/number_guess.py
 
 ## 2.Rock Paper Scissors Game:
 Link : https://github.com/Tamiz07/Python-Project/blob/main/rock_paper_scissor.py
-<p></p>
+<p>I have created a rock-paper-scissors game using Python, which has helped me enhance my understanding of explicit functions, if-else statements, and nested while loops in Python.</p>
